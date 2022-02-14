@@ -8,7 +8,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
 resourcetype: Image
 title: chp_sgnl_procesr.jpg
+type: OCWImage
 uid: 9f37ea3e-7dce-aec4-fcd3-110fcbf745d9
 ---

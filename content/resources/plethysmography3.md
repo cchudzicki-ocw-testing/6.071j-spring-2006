@@ -3,7 +3,12 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/d988ad7561790e98c3db097a3559f881_plethysmography3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: plethysmography3.pdf
+type: OCWFile
 uid: d988ad75-6179-0e98-c3db-097a3559f881
 ---

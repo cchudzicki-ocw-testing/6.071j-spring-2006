@@ -3,7 +3,12 @@ content_type: resource
 description: 'The ZIP file contains: Bandwidth.vi and Notch.vi.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/df4570cf5950b716ffb54dab266fc89a_lab14.zip
 file_type: application/zip
+learning_resource_types:
+- Labs
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: lab14.zip
+type: OCWFile
 uid: df4570cf-5950-b716-ffb5-4dab266fc89a
 ---

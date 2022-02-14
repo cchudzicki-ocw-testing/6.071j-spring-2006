@@ -5,7 +5,12 @@ description: This resource discusses about operational amplifiers, the ideal op-
   feedback amplifiers.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/e7b81789ae20fd3cac8c1855359b3e10_22_op_amps1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 22_op_amps1.pdf
+type: OCWFile
 uid: e7b81789-ae20-fd3c-ac8c-1855359b3e10
 ---

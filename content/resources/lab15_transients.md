@@ -3,7 +3,12 @@ content_type: resource
 description: This resource contains information on transients.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/491e7e50ee65521c601ee51d3c6f7e5f_lab15_transients.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lab15_transients.pdf
+type: OCWFile
 uid: 491e7e50-ee65-521c-601e-e51d3c6f7e5f
 ---

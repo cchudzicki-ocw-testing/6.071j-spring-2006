@@ -5,7 +5,12 @@ description: This resource discusses about initial equilibrium or initial steady
   with multiple resistors.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/4b6a5fe626d65de20ceb97d8d23f38a4_transient1_rl_rc.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: transient1_rl_rc.pdf
+type: OCWFile
 uid: 4b6a5fe6-26d6-5de2-0ceb-97d8d23f38a4
 ---

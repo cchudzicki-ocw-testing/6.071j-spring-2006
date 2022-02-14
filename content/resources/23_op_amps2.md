@@ -5,7 +5,12 @@ description: This resource discusses about ideal op-amp in an open loop configur
   as computational devices.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/5bc88e4af14bc9c72e63f48cd2a44613_23_op_amps2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 23_op_amps2.pdf
+type: OCWFile
 uid: 5bc88e4a-f14b-c9c7-2e63-f48cd2a44613
 ---

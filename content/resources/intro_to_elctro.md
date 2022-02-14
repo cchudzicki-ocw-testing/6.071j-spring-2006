@@ -4,7 +4,12 @@ description: This resource discusses about course description, thermistor, a the
   transducer and becoming familiar with the hardware and software.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/837566791a647fbcef525979e34dc9bd_intro_to_elctro.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: intro_to_elctro.pdf
+type: OCWFile
 uid: 83756679-1a64-7fbc-ef52-5979e34dc9bd
 ---

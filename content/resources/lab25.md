@@ -5,7 +5,12 @@ description: 'The ZIP file contains: an_3001.pdf, an_3005.pdf, plethysmography1.
   qsd124.pdf, Drive_Sense.vi, and Heart_Rate.vi.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/0d196b549c176f947255256b8c9ed7c3_lab25.zip
 file_type: application/zip
+learning_resource_types:
+- Labs
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: lab25.zip
+type: OCWFile
 uid: 0d196b54-9c17-6f94-7255-256b8c9ed7c3
 ---
