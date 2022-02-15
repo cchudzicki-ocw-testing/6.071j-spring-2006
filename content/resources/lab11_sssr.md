@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab11_sssr.pdf
-type: OCWFile
 uid: 5caae702-9abb-4961-b605-7886e691ef2c
 ---

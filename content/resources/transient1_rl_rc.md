@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: transient1_rl_rc.pdf
-type: OCWFile
 uid: 4b6a5fe6-26d6-5de2-0ceb-97d8d23f38a4
 ---

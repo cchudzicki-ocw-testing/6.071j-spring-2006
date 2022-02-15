@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab13_filters.pdf
-type: OCWFile
 uid: 6ff5a64a-7401-8ff9-ac6d-84975555625c
 ---

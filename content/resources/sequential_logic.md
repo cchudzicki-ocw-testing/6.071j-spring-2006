@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: sequential_logic.pdf
-type: OCWFile
 uid: d0a578bc-6340-f911-88b1-e3ac487b62ab
 ---

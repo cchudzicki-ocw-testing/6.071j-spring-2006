@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 03_kirchhoff1.pdf
-type: OCWFile
 uid: ef361480-b9bd-43aa-713a-e43e96df517f
 ---

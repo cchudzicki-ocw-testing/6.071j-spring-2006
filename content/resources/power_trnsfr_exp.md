@@ -11,6 +11,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: power_trnsfr_exp.pdf
-type: OCWFile
 uid: 1349ccde-4dd2-4249-3186-c535c05908a0
 ---

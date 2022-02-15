@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 16_transint_rlc2.pdf
-type: OCWFile
 uid: a929d338-9683-9a7b-f1ca-2631cd87e711
 ---

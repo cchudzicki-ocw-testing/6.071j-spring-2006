@@ -11,6 +11,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab9_dep_current.pdf
-type: OCWFile
 uid: 0f549406-07e9-caa3-4bfa-1dd4c303d405
 ---

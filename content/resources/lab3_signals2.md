@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab3_signals2.pdf
-type: OCWFile
 uid: e6d13ee5-7054-da1e-3921-f1464ebdb6c0
 ---

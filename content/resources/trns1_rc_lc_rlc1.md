@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: trns1_rc_lc_rlc1.pdf
-type: OCWFile
 uid: 3021be47-ce51-0605-07c5-fa54373f2d78
 ---

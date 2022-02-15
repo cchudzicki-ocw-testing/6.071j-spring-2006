@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: heartratesol.pdf
-type: OCWFile
 uid: 520080ec-6cf4-7df8-e3b2-1530cabcae04
 ---

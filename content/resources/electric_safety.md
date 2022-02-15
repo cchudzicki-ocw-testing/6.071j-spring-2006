@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: electric_safety.pdf
-type: OCWFile
 uid: aaacee92-6556-e323-4368-e5fc9e5aa3d1
 ---

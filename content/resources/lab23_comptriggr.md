@@ -11,6 +11,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab23_comptriggr.pdf
-type: OCWFile
 uid: a7ffff91-ee5c-0819-489f-3882474396dd
 ---

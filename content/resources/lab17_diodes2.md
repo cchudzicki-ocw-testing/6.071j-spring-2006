@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab17_diodes2.pdf
-type: OCWFile
 uid: 2b63960f-fda5-0779-7d66-c316a1012d8e
 ---

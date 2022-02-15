@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 24_op_amps3.pdf
-type: OCWFile
 uid: b713e408-ddb3-59fd-7293-60244e747aff
 ---

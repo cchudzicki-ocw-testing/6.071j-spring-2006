@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 06_dep_source1.pdf
-type: OCWFile
 uid: 6368191d-f1e3-51ef-3d36-77ee0312fefc
 ---

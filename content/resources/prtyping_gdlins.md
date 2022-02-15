@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: prtyping_gdlins.pdf
-type: OCWFile
 uid: bbf3a878-3d4c-5416-d4c6-c12859b5df1a
 ---

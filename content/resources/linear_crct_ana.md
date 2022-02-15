@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: linear_crct_ana.pdf
-type: OCWFile
 uid: 004de24d-d40e-3938-b039-3a6a2bd91788
 ---

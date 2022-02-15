@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: resonance_qfactr.pdf
-type: OCWFile
 uid: 5bcec4bf-ba5f-2e99-754b-77509e9e7ab4
 ---

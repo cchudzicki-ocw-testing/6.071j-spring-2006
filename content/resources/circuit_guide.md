@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: circuit_guide.pdf
-type: OCWFile
 uid: e87ea594-d763-15af-cd18-ff5bca653a07
 ---

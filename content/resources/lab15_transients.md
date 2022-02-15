@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab15_transients.pdf
-type: OCWFile
 uid: 491e7e50-ee65-521c-601e-e51d3c6f7e5f
 ---

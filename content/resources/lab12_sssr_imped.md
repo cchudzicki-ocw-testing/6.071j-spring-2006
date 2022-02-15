@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab12_sssr_imped.pdf
-type: OCWFile
 uid: 237324f5-ba5b-14a5-cce6-7d9cfc7fa250
 ---

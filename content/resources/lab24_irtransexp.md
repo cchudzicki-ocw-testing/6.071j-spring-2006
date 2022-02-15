@@ -11,6 +11,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab24_irtransexp.pdf
-type: OCWFile
 uid: fa26845e-4d3a-1bd4-6f5f-e8146afa7251
 ---

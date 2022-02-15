@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: plethysmography3.pdf
-type: OCWFile
 uid: d988ad75-6179-0e98-c3db-097a3559f881
 ---

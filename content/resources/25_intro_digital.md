@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 25_intro_digital.pdf
-type: OCWFile
 uid: 51c0f7cd-6d79-4156-1116-9e1d927d72f1
 ---

@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: heart_rate_lab.pdf
-type: OCWFile
 uid: fe3cc74b-da73-fa13-9d19-c39540c68248
 ---

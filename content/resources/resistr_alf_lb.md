@@ -11,6 +11,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: resistr_alf_lb.pdf
-type: OCWFile
 uid: 1fc7bcd5-091e-339c-47ab-7484492d8fa9
 ---

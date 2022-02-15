@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: zener_1n754.pdf
-type: OCWFile
 uid: 22422be4-a130-3857-93f1-efac0f74d77c
 ---

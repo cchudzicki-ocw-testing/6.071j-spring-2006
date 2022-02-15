@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: nodal_mesh_methd.pdf
-type: OCWFile
 uid: 9d19116c-babe-ada1-c980-04a4367a0ee0
 ---

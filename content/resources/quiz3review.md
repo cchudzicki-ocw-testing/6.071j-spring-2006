@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: quiz3review.pdf
-type: OCWFile
 uid: e4931828-8a9d-bc5b-97d4-292fc3cc232f
 ---

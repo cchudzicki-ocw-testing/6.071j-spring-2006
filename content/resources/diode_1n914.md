@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: diode_1n914.pdf
-type: OCWFile
 uid: 07d98610-e968-a5b2-2203-ae8cc26ca7ce
 ---

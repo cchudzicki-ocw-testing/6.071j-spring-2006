@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: intro_to_elctro.pdf
-type: OCWFile
 uid: 83756679-1a64-7fbc-ef52-5979e34dc9bd
 ---

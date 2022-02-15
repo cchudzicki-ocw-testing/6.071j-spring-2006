@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: sss_phsor_impdce.pdf
-type: OCWFile
 uid: 96c80ce0-d551-3139-310a-9526fdadb419
 ---

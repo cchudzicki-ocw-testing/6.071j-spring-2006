@@ -11,6 +11,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab6rnetworks.pdf
-type: OCWFile
 uid: 37d31874-f64c-1873-cdd5-774a219ab83e
 ---

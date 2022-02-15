@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: capactr_inductr.pdf
-type: OCWFile
 uid: eac1995a-ca83-0cfd-0de6-bab60a8abf10
 ---

@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 23_op_amps2.pdf
-type: OCWFile
 uid: 5bc88e4a-f14b-c9c7-2e63-f48cd2a44613
 ---

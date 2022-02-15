@@ -11,6 +11,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab5_kcl_kvl.pdf
-type: OCWFile
 uid: 33fe1bde-1232-982e-2cc2-705f17bed4ea
 ---

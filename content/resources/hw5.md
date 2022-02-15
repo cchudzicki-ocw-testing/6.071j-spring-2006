@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: hw5.pdf
-type: OCWFile
 uid: b748e477-cf3c-edb7-a436-068adb7d756c
 ---

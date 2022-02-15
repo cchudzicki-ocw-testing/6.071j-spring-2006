@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 18_diodes2.pdf
-type: OCWFile
 uid: 4c6d2e1e-bc80-8f94-3b10-aaa063cd40f3
 ---

@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Other
 title: ZenerRegulator.vi
-type: OCWFile
 uid: ab5e9be9-6385-5b4b-ae60-a5fd0366affb
 ---

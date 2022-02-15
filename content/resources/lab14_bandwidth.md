@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab14_bandwidth.pdf
-type: OCWFile
 uid: 268ee546-38a3-c0ff-6466-5f81f9689f4e
 ---

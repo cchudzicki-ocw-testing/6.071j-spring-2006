@@ -11,6 +11,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab19_bjt2.pdf
-type: OCWFile
 uid: 5a728fdc-f492-e82d-c52a-c8d312918fa2
 ---
